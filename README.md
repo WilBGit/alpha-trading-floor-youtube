@@ -1,5 +1,7 @@
 # Alpha Trading Floor YouTube Content Pipeline
 
+[![CI](https://github.com/WilBGit/alpha-trading-floor-youtube/actions/workflows/ci.yml/badge.svg)](https://github.com/WilBGit/alpha-trading-floor-youtube/actions/workflows/ci.yml)
+
 The production-oriented content pipeline for the Alpha Trading Floor YouTube channel. It combines deterministic market-data collection, technical analysis, catalyst research, Alpha scoring, script and title generation, script QC, chart and thumbnail creation, narration, ffmpeg composition, and an explicit YouTube upload boundary.
 
 This is separate from the smaller reusable `youtube-generator` repository. `youtube-generator` contains the general visual-card and video assembly utility. This repository contains the Alpha Trading Floor market-to-video pipeline.
