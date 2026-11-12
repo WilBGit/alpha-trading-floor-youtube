@@ -1,0 +1,7 @@
+Pillow>=10.0
+httpx>=0.27
+numpy>=1.26
+yfinance>=0.2.40
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+mysql-connector-python>=8.0

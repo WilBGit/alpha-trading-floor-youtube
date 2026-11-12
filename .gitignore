@@ -1,0 +1,33 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*token*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime output and private data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+last_successful_upload.json
+data/
+logs/
+audio/
+charts/
+music/
+thumbnails/
+videos/
+visuals/
+voice/
+output/
+outputs/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
